@@ -8,6 +8,20 @@
     font-weight: 400;
   }
 
+  .navbar-logo {
+    display: block;
+    height: 100px;
+    width: auto;
+    max-width: 260px;
+    object-fit: contain;
+  }
+
+  .logo-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 0;
+  }
+
   h1 {
     font-size: 325%;
     font-family: 'Roboto', sans-serif;
